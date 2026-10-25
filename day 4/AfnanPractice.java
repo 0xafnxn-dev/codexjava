@@ -1,4 +1,4 @@
-public class Afnan
+public class AfnanPractice
 {
 	public static void main(String [] args)
 	{
