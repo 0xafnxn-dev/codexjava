@@ -1,0 +1,47 @@
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse workspace
+.metadata/
+**/.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Build output
+target/
+build/
+out/
+bin/
+.gradle/
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+*.log
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
+!.env.example

@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="V9Znu060nYymG3q6sLAJ">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-3" edge="1" parent="1" source="EyLhDMxFHtz2JEeI8LwL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EyLhDMxFHtz2JEeI8LwL-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="70" width="40" x="40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-6" edge="1" parent="1" source="EyLhDMxFHtz2JEeI8LwL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EyLhDMxFHtz2JEeI8LwL-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="java" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-8" edge="1" parent="1" source="EyLhDMxFHtz2JEeI8LwL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EyLhDMxFHtz2JEeI8LwL-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="compiler" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-10" edge="1" parent="1" source="EyLhDMxFHtz2JEeI8LwL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EyLhDMxFHtz2JEeI8LwL-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="byte code &lt;b&gt;.class&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="595" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-13" edge="1" parent="1" source="EyLhDMxFHtz2JEeI8LwL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="jvm&amp;nbsp; &amp;nbsp;(run the byte code)" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="EyLhDMxFHtz2JEeI8LwL-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="output&lt;div&gt;&lt;b&gt;Hello&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="605" y="690" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
